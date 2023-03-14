@@ -1,0 +1,150 @@
+body {
+
+    background-color: #287261;
+}
+
+.logoimg {
+
+
+    position: absolute;
+
+    top: 62px;
+    left: 560px;
+    width: 179px;
+    height: 226px;
+
+}
+
+.linhaimg {
+
+    position: absolute;
+
+    width: 218px;
+    height: 6px;
+    left: 540px;
+    top: 298px;
+}
+
+.retanimg {
+
+    position: absolute;
+
+    width: 538px;
+    height: 463px;
+    left: 390px;
+    top: 400px;
+
+    -webkit-box-shadow: 5px 5px 37px 17px #000000; 
+    box-shadow: 5px 5px 37px 17px #000000;
+}
+
+.titulo {
+
+    position: absolute;
+
+    width: 782px;
+    height: 35px;
+    left: 265px;
+    top: 400px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    color: white;
+
+}
+
+.msg1 {
+
+    position: absolute;
+
+    width: 782px;
+    height: 35px;
+    left: 265px;
+    top: 470px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    color: white;
+}
+
+.barra {
+
+    position: absolute;
+
+    width: 473px;
+    height: 61px;
+    left: 422px;
+    top: 598px;
+
+    -webkit-box-shadow: 5px 5px 37px 17px #000000; 
+    box-shadow: 5px 5px 37px 17px #000000;
+}
+
+.iconemail {
+
+    position: absolute;
+    width: 45px;
+    height: 32px;
+    left: 445px;
+    top: 612px;
+
+}
+
+.msgemail {
+
+    position: absolute;
+   
+    left: 422px;
+    top: 550px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+
+    color: #FFFFFF ;
+}
+
+.barrabranca {
+
+    position: absolute;
+
+    width: 473px;
+    height: 0px;
+    left: 422px;
+    top: 650px;
+}
+
+.continuar {
+
+    position: absolute;
+
+    width: 185px;
+    height: 48px;
+    left: 565px;
+    top: 702px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 48px;
+    text-align: center;
+    text-decoration-line: underline;
+
+    color: #FFFFFF;
+}
+
+.aumenta {
+
+    position: absolute;
+    top: 900px
+}

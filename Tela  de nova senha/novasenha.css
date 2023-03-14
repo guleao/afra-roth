@@ -1,0 +1,39 @@
+body {
+
+    background-color: #287261;
+}
+
+.logoimg {
+
+
+    position: absolute;
+
+    top: 62px;
+    left: 560px;
+    width: 179px;
+    height: 226px;
+
+}
+
+.linhaimg {
+
+    position: absolute;
+
+    width: 218px;
+    height: 6px;
+    left: 540px;
+    top: 298px;
+}
+
+.retanimg {
+
+    position: absolute;
+
+    width: 538px;
+    height: 463px;
+    left: 390px;
+    top: 400px;
+
+    -webkit-box-shadow: 5px 5px 37px 17px #000000; 
+    box-shadow: 5px 5px 37px 17px #000000;
+}

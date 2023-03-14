@@ -1,0 +1,279 @@
+/* CSS -> Tela de login - Sistema Afra Roth <- Front-End */
+
+body {
+
+    background-color: #287261;
+
+
+
+}
+
+.minhadiv {
+
+    position: relative;
+    width: 100px;
+    height: 100px;
+
+}
+/* ELEMENTOS = LOGO, LINHA ABAIXO DA LOGO
+/* logoimg = Está posicionando a logo dentro da tela de login. - LOGO DA PREFEITURA - */
+
+.logoimg {
+
+
+    position: absolute;
+
+    top: 62px;
+    left: 560px;
+    width: 79px;
+    height: 226px;
+
+    
+
+}
+
+/* linhaimg = linha preta abaixo da logo. */
+
+.linhaimg {
+
+    position: absolute;
+
+    width: 218px;
+    height: 6px;
+    left: 540px;
+    top: 298px;
+}
+
+/* ELEMENTOS DO RETÂNGULO. 
+/* retanimg = retângulo de fundo da parte de inserir os dados. */
+
+.retanimg {
+
+    position: absolute;
+
+    width: 538px;
+    height: 463px;
+    left: 390px;
+    top: 400px;
+
+    -webkit-box-shadow: 5px 5px 37px 17px #000000; 
+    box-shadow: 5px 5px 37px 17px #000000;
+
+}
+
+.titulo {
+
+    position: absolute;
+
+    width: 782px;
+    height: 35px;
+    left: 265px;
+    top: 400px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    color: white;
+
+}
+
+
+/* Elementos da primeira barra: */
+.barraum {
+
+    position: absolute;
+
+    width: 473px;
+    height: 61px;
+    left: 422px;
+    top: 500px;
+
+    -webkit-box-shadow: 5px 5px 37px 17px #000000; 
+    box-shadow: 5px 5px 37px 17px #000000;
+}
+
+.iconemail {
+
+    position: absolute;
+    width: 45px;
+    height: 32px;
+    left: 445px;
+    top: 513px;
+
+}
+
+/* Mensagem */
+
+.msgemail {
+
+    position: absolute;
+   
+    left: 422px;
+    top: 450px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+
+    color: #FFFFFF ;
+}
+
+/* LINHA 1 E 2 : */
+.linha1 {
+
+    position: absolute;
+
+    width: 473px;
+    height: 0px;
+    left: 422px;
+    top: 550px;
+}
+
+.linha2 {
+
+    position: absolute;
+
+    width: 473px;
+    height: 0px;
+    left: 422px;
+    top: 554px;
+}
+
+.barradois {
+
+    position: absolute;
+
+    width: 473px;
+    height: 61px;
+    left: 420px;
+    top: 650px;
+
+    -webkit-box-shadow: 5px 5px 37px 17px #000000; 
+    box-shadow: 5px 5px 37px 17px #000000;
+
+}
+
+.iconesenha {
+
+    position: absolute;
+
+    width: 45px;
+    height: 46px;
+    left: 445px;
+    top: 657px;
+
+}
+
+/* Mensagem da Senha */
+
+.msgsenha {
+
+    position: absolute;
+   
+    left: 422px;
+    top: 602px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+
+    color: #FFFFFF ;
+}
+
+/* LINHA 3 E 4: */
+.linha3 {
+
+    position: absolute;
+
+    width: 473px;
+    height: 0px;
+    left: 420px;
+    top: 700px;
+}
+
+.linha4 {
+
+    position: absolute;
+
+    width: 473px;
+    height: 0px;
+    left: 420px;
+    top: 704px;
+}
+
+
+.msg1 {
+
+    position: absolute;
+
+    width: 154px;
+    height: 24px;
+    left: 430px;
+    top: 702px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    text-decoration-line: underline;
+
+    color: #FFFFFF;
+
+}
+
+/* Entrar */ 
+
+.entrar {
+
+    position: absolute;
+
+    width: 782px;
+    height: 35px;
+    left: 268px;
+    top: 720px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 48px;
+    text-align: center;
+    text-decoration-line: underline;
+
+    color: #FFFFFF;
+}
+
+/* Esqueceu a senha? */
+
+.esqsenha {
+
+    position: absolute;
+
+    width: 782px;
+    height: 35px;
+    left: 268px;
+    top: 775px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 48px;
+    text-align: center;
+    text-decoration-line: underline;
+
+    color: #FFFFFF;
+}
+
+.aumenta {
+
+    position: absolute;
+    top: 900px
+}
